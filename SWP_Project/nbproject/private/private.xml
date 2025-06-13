@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/model/Account.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/LoginHistoryDetailServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/EmployerDashboard.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/ActiveAccountServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/dao/EmployerApprovalDAO.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/ChangePassword.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/dao/JobSeekerDAO.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/ChangeAvatarServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/config.properties</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/AdminEmployerApprovalServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/JSKProfileServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/connect/DBConnect.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/AdminProfile.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/ViewLoginHistoryServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/UserManage.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/dao/EmployerDAO.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/LoginHistory.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/EmployerProfile.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/RegisterEmployerServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/JobseekerDashboard.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/DashBoardServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/dao/AccountDAO.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/Login.jsp</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/controller/ProfileServlet.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/model/MailUtil.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/src/java/dao/RegisterDAO.java</file>
+            <file>file:/C:/Users/ngung/Downloads/SWP_Project/SWP_Project/web/AdminDashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>

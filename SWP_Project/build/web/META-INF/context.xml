@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="">
+    <Resource name="jdbc/JobPortal" 
+              auth="Container" 
+              type="javax.sql.DataSource"
+              username="sa"
+              password="12345"
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+              url="jdbc:sqlserver://localhost:1433;databaseName=JobPortal;encrypt=true;trustServerCertificate=true;"
+              maxTotal="20"
+              maxIdle="10"
+              maxWaitMillis="-1"/>
+</Context>

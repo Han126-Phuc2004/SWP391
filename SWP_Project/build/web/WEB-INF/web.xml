@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="6.0" xmlns="https://jakarta.ee/xml/ns/jakartaee" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd">
+    
+    <!-- Servlet Configurations -->
+    <servlet>
+        <servlet-name>HomeServlet</servlet-name>
+        <servlet-class>controller.HomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HomeServlet</servlet-name>
+        <url-pattern>/home</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>JSKProfileServlet</servlet-name>
+        <servlet-class>controller.JSKProfileServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>JSKProfileServlet</servlet-name>
+        <url-pattern>/JSKProfile</url-pattern>
+    </servlet-mapping>
+    
+    <!-- Welcome file list -->
+    <welcome-file-list>
+        <welcome-file>Login</welcome-file>
+    </welcome-file-list>
+    
+    <!-- Session Configuration -->
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+    
+    <!-- Error Pages -->
+    <error-page>
+        <error-code>404</error-code>
+        <location>/error/404.jsp</location>
+    </error-page>
+    <error-page>
+        <error-code>500</error-code>
+        <location>/error/500.jsp</location>
+    </error-page>
+    
+    <!-- Security Constraints -->
+    <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>Secure Pages</web-resource-name>
+            <url-pattern>/admin/*</url-pattern>
+            <url-pattern>/employer/*</url-pattern>
+            <url-pattern>/jobseeker/*</url-pattern>
+        </web-resource-collection>
+
+    </security-constraint>
+</web-app> 
