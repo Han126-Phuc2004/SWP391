@@ -107,11 +107,7 @@
     </head>
     <body>
         <div class="container">
-            <div class="login-container">
-                <div class="login-logo">
-                    <img src="assets/images/logo.png" alt="Logo" onerror="this.src='https://via.placeholder.com/150x50?text=Your+Logo'">
-                </div>
-                
+            <div class="login-container">                              
                 <!-- Hiển thị thông báo lỗi nếu có -->
                 <% if (request.getAttribute("error") != null) { %>
                     <div class="alert alert-danger alert-dismissible fade show" role="alert">
